@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlphaConnection</string>
+    <string name="splash_subtitle">Developed by MUHAMMAD ZOHAIB</string>
+    <string name="connection_status">Connection Status: Disconnected</string>
+    <string name="btn_initialize">Initialize</string>
+    <string name="btn_shutdown">Shutdown</string>
+    <string name="btn_broadcast">Broadcast</string>
+    <string name="hint_message">Type message to broadcast…</string>
+    <string name="label_received">Received Messages</string>
+    <string name="label_log">Log</string>
+    <string name="footer">Developed by MUHAMMAD ZOHAIB</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_discovering">Discovering…</string>
+    <string name="status_advertising">Advertising…</string>
+    <string name="status_connected">Connected</string>
+    <string name="no_messages">No messages yet</string>
+</resources>
