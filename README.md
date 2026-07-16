@@ -6,7 +6,7 @@
 
 ### 📡 Offline Peer-to-Peer Communication for Android
 
-A Proof-of-Concept Android application demonstrating **reliable local broadcast communication** between nearby Android phones using the **Google Nearby Connections API**.
+An Android application demonstrating **reliable local broadcast communication** between nearby Android phones using the **Google Nearby Connections API**.
 **No internet. No servers. No limits.**
 
 <br/>
