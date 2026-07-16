@@ -18,7 +18,7 @@ An Android application demonstrating **reliable local broadcast communication** 
 
 <br/>
 
-<a href="https://drive.google.com/file/d/13DeGHHdcbN_2ygfi8pLDwhJ2rjUNxPp8/view?usp=sharing">
+<a href="https://drive.google.com/file/d/14cjVM4aylVpMVmo6oHPjooCcCqMD4s1L/view?usp=sharing">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20APK-Get%20the%20App-D32F2F?style=for-the-badge&logoColor=white" alt="Download APK" height="45"/>
 </a>
 
@@ -133,7 +133,7 @@ graph LR
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/13DeGHHdcbN_2ygfi8pLDwhJ2rjUNxPp8/view?usp=sharing">
+<a href="https://drive.google.com/file/d/14cjVM4aylVpMVmo6oHPjooCcCqMD4s1L/view?usp=sharing">
   <img src="https://img.shields.io/badge/⬇️%20Download%20AlphaConnection.apk-D32F2F?style=for-the-badge" alt="Download APK"/>
 </a>
 
